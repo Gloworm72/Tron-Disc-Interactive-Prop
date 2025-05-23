@@ -50,7 +50,7 @@ Each profile includes:
 
 ---
 
-## 🛠Build Process
+## Build Process
 
 **3D Print & Paint**  
 - Designed in Fusion 360  
